@@ -52,12 +52,12 @@
   <img src="https://skillicons.dev/icons?i=cpp" height="35" title="C++" alt="C++ icon" />
 </a>
 &nbsp;
-<a href="https://www.w3schools.com/python/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=py" height="35" title="Python" alt="Python icon" />
-</a>
-&nbsp;
 <a href="https://www.w3schools.com/cs/" target="_blank">
   <img src="https://skillicons.dev/icons?i=cs" height="35" title="C#" alt="C# icon" />
+</a>
+&nbsp;
+<a href="https://www.w3schools.com/python/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=py" height="35" title="Python" alt="Python icon" />
 </a>
 &nbsp;
 <a href="https://www.w3schools.com/java/" target="_blank">
