@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
     <h2><em><b>Hi there!</b></em>👋</h2>
     <p>
       <em><b>
@@ -12,4 +12,9 @@
       <br><br>
       <i align="center"><em><b>Recently I'm interested in neural networks. I like using data to feed models</b></em></i> 🧠
     </p>
+    <br>
+    <a href="https://github.com/LCZ-ctrl">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=LCZ-ctrl&theme=dracula&hide_border=true" />
+    </a>
+</a>
 </div>
